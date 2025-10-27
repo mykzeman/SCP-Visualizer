@@ -1,0 +1,5 @@
+{
+  "name": "SCP Foundation Visualizer",
+  "description": "An application that uses AI to extract information and generate artistic, SFW (Safe-For-Work) visualizations of entries from the SCP Foundation wiki.",
+  "requestFramePermissions": []
+}
